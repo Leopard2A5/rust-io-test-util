@@ -2,5 +2,11 @@
 name = "io-test-util"
 version = "0.1.0"
 authors = ["René Perschon <rperschon85@gmail.com>"]
+description = "Collection of utilities for testing failure of io components."
+documentation = "https://docs.rs/io-test-util/"
+homepage = "https://github.com/Leopard2A5/rust-io-test-util"
+readme = "README.md"
+keywords = ["test", "io", "util"]
+license = "MIT"
 
 [dependencies]
